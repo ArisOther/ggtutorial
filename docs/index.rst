@@ -13,6 +13,8 @@
 
 
 .. toctree:: 
+:maxdepth: 2
+:hidden:
 
     Ini adalah judul
     Ini adakah isi
